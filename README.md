@@ -24,3 +24,17 @@ This application takes user input, sends it to an AI model through an API, and r
 - Improve UI with a frontend interface
 
 - Built REST API endpoints for handling requests and responses
+
+- ## API Endpoints
+
+### GET /
+Returns a simple status message showing the app is running.
+
+### POST /chat
+Accepts a JSON message and returns a generated response.
+
+Example request:
+```json
+{
+  "message": "Hello"
+}
