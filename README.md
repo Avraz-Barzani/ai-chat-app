@@ -26,7 +26,7 @@ This application takes user input, sends it to an AI model through an API, and r
 
 - Built REST API endpoints for handling requests and responses
 
-- ## API Endpoints
+## API Endpoints
 
 ### GET /
 Returns a simple status message showing the app is running.
@@ -35,10 +35,8 @@ Returns a simple status message showing the app is running.
 Accepts a JSON message and returns a generated response.
 
 Example request:
+
 ```json
 {
   "message": "Hello"
 }
-## Run Locally
-
-1. Install dependencies:
