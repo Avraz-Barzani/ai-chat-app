@@ -4,7 +4,7 @@ This project is a simple AI-powered chat application built using Python and Fast
 
 ## Features
 - Handles user input and generates responses
-- Uses API-based AI model integration
+Simulates AI-style responses using backend logic (can be extended to real AI APIs)
 - Structured backend for scalability
 
 ## Technologies Used
