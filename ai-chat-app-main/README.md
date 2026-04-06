@@ -46,6 +46,7 @@ Example response:
   "message": "AI Chat App is running"
 }
 
+```
 ### POST /chat
 Accepts a JSON message from the user and returns an AI-generated response.
 
