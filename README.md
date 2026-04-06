@@ -39,3 +39,6 @@ Example request:
 {
   "message": "Hello"
 }
+## Run Locally
+
+1. Install dependencies:
