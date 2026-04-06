@@ -58,7 +58,7 @@ Example request:
 }
 
 {
-  "response": "Hello! How can I help you todayssss?"
+  "response": "Hello! How can I help you today?"
 }
 
 ---
